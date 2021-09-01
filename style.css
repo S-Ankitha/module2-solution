@@ -1,0 +1,16 @@
+*{
+  box-sizing: border_box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: Comic Sans MS,Arial,sans-serif;
+}
+h1{
+  font-size: 75%;
+  font-colour: #000000;
+  float: centre;
+  padding: 20px;
+  margin:20px;
+  
+}
