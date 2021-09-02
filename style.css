@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 body{
-font-family: MsComicSans Arial;
+font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 h1
@@ -17,6 +17,7 @@ h1
     border: 1px solid black; 
     width: 90%;
     padding: 10px; 
+    margin: 20px;
 }
 p{
 background-colour: grey;
