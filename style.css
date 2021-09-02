@@ -9,10 +9,16 @@ body{
 h1 {
   width: 70px;
   height: 300px;
-  display: flex;
-  flex-wrap: wrap;
+  text-align:center;
   align-content: center;
   font-colour: #000000;
-   font-size: 175%;
+  font-size: 75%;
+}
+.row{
+background-colour: grey;
+padding: 30px;
+border: 2px solid black;
+width: 300px;
+margin-top: 50px;
 }
 
