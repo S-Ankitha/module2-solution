@@ -27,16 +27,20 @@ background-colour: grey;
 #ch{
     background-colour: #ff7f50;
     border: 1px solid black; 
-    float: left;
+    position: relative;
+    left: 80%;    
     }
 #be{
     background-colour: #d2691e;
     border: 1px solid black; 
-    float: left;
+     position: relative;
+    left: 80%;  
     colour: white;    
 }
 #su{
     background-colour: #deb887;
     border: 1px solid black; 
-    float: left;
+     position: relative;
+    left: 80%;  
+
  }
