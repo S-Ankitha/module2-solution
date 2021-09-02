@@ -1,3 +1,4 @@
+/*base style*/
 *
 {
     box-sizing: border-box;
@@ -19,6 +20,23 @@ h1
     padding: 10px; 
     margin: 20px;
 }
-p{
+p
+{
 background-colour: grey;
 }
+#ch{
+    background-colour: #ff7f50;
+    border: 1px solid black; 
+    float: left;
+    }
+#be{
+    background-colour: #d2691e;
+    border: 1px solid black; 
+    float: left;
+    colour: white;    
+}
+#su{
+    background-colour: #deb887;
+    border: 1px solid black; 
+    float: left;
+ }
