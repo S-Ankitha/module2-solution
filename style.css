@@ -1,7 +1,7 @@
 *{
   box-sizing: border_box;
-  margin: 0;
-  padding: 0;
+  margin: 10px;
+  padding: 10px;
 }
 body{
   font-family: Comic Sans MS,Arial,sans-serif;
@@ -15,10 +15,10 @@ h1 {
   font-size: 75%;
 }
 .row{
-background-colour: grey;
 padding: 30px;
 border: 2px solid black;
 width: 300px;
 margin-top: 50px;
+font-size: 50%;
 }
 
