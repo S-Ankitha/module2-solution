@@ -17,8 +17,11 @@ h1 {
 .row{
 padding: 30px;
 border: 2px solid black;
-width: 300px;
-margin-top: 50px;
+width: 400px;
+margin-top: 10px;
 font-size: 50%;
+}
+p{
+background-colour: grey;
 }
 
