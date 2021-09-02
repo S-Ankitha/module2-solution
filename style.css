@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 body{
-font-family: ms comic sans;
+font-family: MsComicSans Arial;
 }
 
 h1
@@ -12,13 +12,12 @@ h1
     text-align: center;
 }
 
-p
+.row
 {
     border: 1px solid black; 
-    width: 33.33%;
-    height: 150px; 
-    height: 100%;
-    margin-right: auto;
-    margin-left: auto;
-   
+    width: 90%;
+    padding: 10px; 
+}
+p{
+background-colour: grey;
 }
